@@ -104,6 +104,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=sarmadhassandata&style=for-the-badge" alt="Profile Views" />
 
-### *"From Sensors to Decisions, Transforming Industrial Data into Operational Intelligence."*
+<br><br>
+
+### *"From sensors to decisions—transforming industrial data into operational intelligence."*
 
 </div>
